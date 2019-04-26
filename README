@@ -1,0 +1,17 @@
+Les log sont:
+
+[
+    'login' => 'Michelle',
+    'password' => 'delacompta',
+],
+[
+    'login' => 'Jon',
+    'password' => 'FF4EVER',
+],
+[
+    'login' => 'Jerome',
+    'password' => 'itryhard4myPHP',
+],
+
+];
+
