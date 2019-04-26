@@ -16,7 +16,7 @@
     <h1>Voulez vous affiché :</h1>
 
     <div>
-        <form action="./CONTROLLER/actionindex.php" method='POST'>
+        <form action="./actionindex.php" method='POST'>
             <label for="imag">IMAGE:</label>
             <input name='imag' type="checkbox" checked>
 
