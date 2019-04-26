@@ -1,17 +1,20 @@
-Les log sont:
+Les log admin sont:
+|_______________________________________|
+|                                       |
+|           Pseudo   : Michelle         |
+|    1.)    Password : delacompta       |
+|_______________________________________|
+|                                       |
+|           Pseudo   : Jon              |
+|    2.)    Password : FF4EVER          |
+|_______________________________________|
+|                                       |
+|           Pseudo   : Jerome           |
+|    3.)    Password : itryhard4myPHP   |
+|_______________________________________|
 
-[
-    'login' => 'Michelle',
-    'password' => 'delacompta',
-],
-[
-    'login' => 'Jon',
-    'password' => 'FF4EVER',
-],
-[
-    'login' => 'Jerome',
-    'password' => 'itryhard4myPHP',
-],
+/!\ Dans le fichier "script.php" la boucle foreach necessite un "break;" a la fin du second 'if'.
+Il n'en avais pas besoin avant, mais maintenant oui. Il vous faudra le lui incrémenté pour le bon
+fonctionnement du site /!\ Merci de votre compréhension. /!\
 
-];
-
+Et courage pour tes ces esprit echauffé dans la classe ^^'
